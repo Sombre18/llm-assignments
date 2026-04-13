@@ -1,2 +1,1 @@
-# llm-assignments
-Repo for "Theory and Practice of Large Language Models"
+Assignments for "Theory and Practice of Large Language Models"
